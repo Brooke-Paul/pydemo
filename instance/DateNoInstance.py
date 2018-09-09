@@ -1,8 +1,5 @@
 class DateNoInstance:
-    def __init__(self, year, month, day):
-        self.year = year
-        self.month = month
-        self.day = day
+    pass
 
 
 if __name__ == '__main__':
